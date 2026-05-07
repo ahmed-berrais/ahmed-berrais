@@ -18,7 +18,7 @@ I design and build **AI-powered applications** — from multi-agent pipelines to
 
 ### 🏥 SmilhCare — Home Care Platform
 
-> **Live at [smilhcare.com](https://smilhcare.com)**
+> **Live at [smilhcare.com](https://smilhcare.com) this is the repo (https://github.com/smilhcare-lab/smilh_care_website)** 
 
 A full-stack home care services platform with an integrated AI chatbot, built as a collaborative project.
 
