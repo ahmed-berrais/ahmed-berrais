@@ -55,7 +55,7 @@ A collection of production-ready AI agents built with **Python**, **LangGraph**,
 
 ### ⚡ CPU-Only LLM Deployment
 
-I deployed the pipeline you can see in ocr agent repository on **CPU-only infrastructure** using llama.cpp, proving that production AI doesn't always need GPUs:
+I deployed the pipeline you can see in [**OCR Agent**](https://github.com/ahmed-berrais/ocr_agent) on **CPU-only infrastructure** using llama.cpp, proving that production AI doesn't always need GPUs:
 
 ```
 ┌─────────────────────────────────────────────────────┐
