@@ -16,7 +16,7 @@ I design and build **AI-powered applications** — from multi-agent pipelines to
 
 ---
 
-### 🏥 SmilhCare — AI-Powered Home Care Platform
+### 🏥 SmilhCare — Home Care Platform
 
 > **Live at [smilhcare.com](https://smilhcare.com)**
 
@@ -55,14 +55,14 @@ A collection of production-ready AI agents built with **Python**, **LangGraph**,
 
 ### ⚡ CPU-Only LLM Deployment
 
-I specialize in deploying LLMs on **CPU-only infrastructure** using llama.cpp, proving that production AI doesn't always need GPUs:
+I deployed the pipeline you can see in ocr agentrepo on **CPU-only infrastructure** using llama.cpp, proving that production AI doesn't always need GPUs:
 
 ```
 ┌─────────────────────────────────────────────────────┐
 │  Chatbot (Qwen 2.5 7B)                             │
 │  → 9 tokens/sec · 12 CPU cores · 48GB RAM · No GPU │
 ├─────────────────────────────────────────────────────┤
-│  OCR Pipeline (Qwen 2.5 7B VL + Corrector Model)   │
+│ OCR Pipeline (Qwen 2.5 7B VL is the Corrector Model)│
 │  → Full extraction in ~90s · Image encoding +       │
 │    ~1200 token processing · CPU-only · llama.cpp    │
 │  → Passive workflow — no user wait time             │
@@ -75,8 +75,8 @@ I specialize in deploying LLMs on **CPU-only infrastructure** using llama.cpp, p
 
 ```text
 Languages       Python · JavaScript · SQL
-AI/ML           LangGraph · LangChain · llama.cpp · Cohere · Groq
-Models          Qwen 2.5 7B · Qwen 2.5 7B VL · Llama 3
+AI/ML           LangGraph · LangChain · llama.cpp · Cohere
+Models          Qwen 2.5 7B · Qwen 2.5 7B VL 
 Frameworks      React · Flask · Vite
 Infrastructure  Supabase · CPU-optimized inference · Linux servers
 Tools           SerpAPI · Amadeus API · GitHub Actions
@@ -85,5 +85,5 @@ Tools           SerpAPI · Amadeus API · GitHub Actions
 ---
 
 <p align="center">
-  <i>Building AI systems that run anywhere — no GPU required.</i>
+  <i>Building AI systems that run anywhere even on cpu.</i>
 </p>
