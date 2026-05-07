@@ -1,18 +1,18 @@
 <h1 align="center">Ahmed Berrais</h1>
 
 <p align="center">
-  <b>AI/ML Engineer · Full-Stack Developer · LLM Infrastructure Specialist</b>
+  <b>JUNIOR AI Engineer · JUNIOR WEB Developer · LLM Infrastructure AND AUTOMATION Specialist</b>
 </p>
 
 <p align="center">
-  Building intelligent systems with LangGraph, LangChain, and optimized LLM inference
+  Building intelligent systems with LangGraph, LangChain, and optimized LLM inference AND OCR PIPELINES WITH VISION LANGUAGE MODELS.
 </p>
 
 ---
 
 ### 🔧 What I Do
 
-I design and build **AI-powered applications** — from multi-agent pipelines to production web platforms. My focus is on making large language models work in **real-world, resource-constrained environments** without relying on expensive GPU infrastructure.
+I design and build **AI-powered applications** — from multi-agent pipelines to production web platforms. My focus is on making large language models work in **real-world, resource-constrained environments**
 
 ---
 
@@ -41,7 +41,7 @@ A full-stack home care services platform with an integrated AI chatbot, built as
 
 ### 🤖 AI Agent Portfolio
 
-A collection of production-ready AI agents built with **Python**, **LangGraph**, and **LangChain**, demonstrating progressive mastery of agentic architectures:
+A collection of production-ready AI agents built with **Python**, **LangGraph**, and **LangChain**, demonstrating progressive mastery of agentic architectures using LANGGRAPH:
 
 | Project | Description | Stack |
 |---------|-------------|-------|
@@ -55,7 +55,7 @@ A collection of production-ready AI agents built with **Python**, **LangGraph**,
 
 ### ⚡ CPU-Only LLM Deployment
 
-I deployed the pipeline you can see in ocr agentrepo on **CPU-only infrastructure** using llama.cpp, proving that production AI doesn't always need GPUs:
+I deployed the pipeline you can see in ocr agent repository on **CPU-only infrastructure** using llama.cpp, proving that production AI doesn't always need GPUs:
 
 ```
 ┌─────────────────────────────────────────────────────┐
@@ -79,7 +79,6 @@ AI/ML           LangGraph · LangChain · llama.cpp · Cohere
 Models          Qwen 2.5 7B · Qwen 2.5 7B VL 
 Frameworks      React · Flask · Vite
 Infrastructure  Supabase · CPU-optimized inference · Linux servers
-Tools           SerpAPI · Amadeus API · GitHub Actions
 ```
 
 ---
